@@ -1,4 +1,4 @@
-## Realphone Website ✨
+## Realphone Website 🎯
 Website Using JS, HTML and CSS.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/realphone-website?color=green)
@@ -9,11 +9,12 @@ Website Using JS, HTML and CSS.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/realphone-website?logo=GitHub)](https://github.com/letnagao/realphone-website/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## Preview 🔥
-<p>
-<video src="https://user-images.githubusercontent.com/99754900/188960715-ba997f7f-eecf-4805-803a-c1ca7aaf4400.mp4" />
-</p>
-
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/188960715-ba997f7f-eecf-4805-803a-c1ca7aaf4400.mp4" width=1280 height=800></td>
+  </tr>
+</table>
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
